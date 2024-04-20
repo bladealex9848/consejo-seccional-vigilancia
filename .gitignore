@@ -1,0 +1,21 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db/
+
+# Archivos de entorno virtual
+venv/
+env/
+
+# Archivos de configuración local
+.env
+.vscode/
+
+# Archivos de documentos
+*.pdf
+*.docx
+
+# Archivos Temporales
+Temp/
