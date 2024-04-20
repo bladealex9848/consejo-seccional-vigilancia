@@ -1,6 +1,6 @@
 # Consejo Seccional de la Judicatura - Vigilancia Judicial Administrativa
 
-Este proyecto tiene como objetivo automatizar y mejorar el proceso de vigilancia judicial administrativa en el Consejo Seccional de la Judicatura de Sucre, Colombia. Utilizando técnicas de inteligencia artificial y procesamiento de lenguaje natural, el sistema es capaz de analizar solicitudes de vigilancia, realizar un control de legalidad y generar proyectos de decisión de manera eficiente.
+Este proyecto tiene como objetivo automatizar y mejorar el proceso de vigilancia judicial administrativa en los Consejos Seccionales de la Judicatura de Colombia. Utilizando técnicas de inteligencia artificial y procesamiento de lenguaje natural, el sistema es capaz de analizar solicitudes de vigilancia, realizar un control de legalidad y generar proyectos de decisión de manera eficiente.
 
 ## Características principales
 
@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo automatizar y mejorar el proceso de vigilancia
 - **Control de Legalidad**: Verificación basada en los criterios del ACUERDO No. PSAA11-8716.
 - **Generación de Embeddings**: Creación de embeddings a partir de documentos PDF para análisis detallado.
 - **Gestión de Roles**: Funcionalidades asignadas a diferentes roles como Escribiente, Profesional Universitario, Auxiliar de Magistrado y Magistrado.
-- **Generación de Documentos**: Producción automática de documentos en formato Word con resúmenes y proyectos de decisión.
+- **Generación de Documentos**: Producción automática de documentos en formato Markdown con resúmenes y proyectos de decisión.
 
 ## Requisitos Técnicos
 
